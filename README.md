@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alva Rani James, PhD
 - 👀 I’m interested in Data science
-- 🌱 I’m currently working as a Bioinfoirmatics Data Scienticst
+- 🌱 I’m currently working as a Bioinformatics Data Scientist
 - 💞️ I’m looking to collaborate Data cleaning, Data wrangling, and machine & deep learnig healthcare data related use cases
 - 📫 How to reach me alvarani@gmail.com
 
